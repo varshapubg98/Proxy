@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Webshare Proxy VPN</string>
+    <string name="vpn_service_description">Routes all device traffic through an authenticated SOCKS5/HTTP Webshare proxy</string>
+    <string name="notification_channel_name">VPN Connection Status</string>
+    <string name="notification_channel_desc">Shows ongoing status for active proxy tunnel</string>
+    <string name="notification_title">Proxy VPN active</string>
+    <string name="action_disconnect">Disconnect</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Webshare Proxy VPN (Android Kotlin & Compose)",
+  "description": "Production-grade Android VPN app in Kotlin, Jetpack Compose, Material 3, NDK/CMake tun2socks and HTTP CONNECT tunnel for authenticated Webshare proxies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
